@@ -1,0 +1,57 @@
+/* body{
+  background: black !important;
+}
+
+#loanCalc{
+  background: white;
+  padding: 1rem;
+  width: 70%;
+  margin: 30px auto;
+  border-radius: 5px;
+}
+form h2 {
+  text-align: center;
+}
+input{padding: 1rem;
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  outline: none;
+  border-radius: 5px;
+  
+  height: 30px;
+  font-size: 1rem;
+}
+input[type= number]{
+  border: 1px solid #c8c8c8;
+}
+
+.circle{
+  border-radius: 10px;
+} */
+
+.tranx {
+  transition: 10s;
+}
+
+/* .loader {
+  display: none;
+} */
+
+#loanCalc {
+  height: auto;
+  width: 80%;
+}
+
+.d-flex button {
+  width: 45%;
+  
+}
+
+.input-group-addon {
+  font-weight: bold !important;
+}
+
+/* div#result {
+  display: none;
+} */
